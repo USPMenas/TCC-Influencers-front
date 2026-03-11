@@ -52,3 +52,26 @@ The project prioritizes:
 ---
 
 ## Repository Structure
+docs/ Project documentation
+frontend/ Frontend application
+
+
+Documentation inside `docs/` provides the full product and technical context for the project.
+
+---
+
+## Documentation
+
+Key documentation files:
+
+- project-overview.md
+- business-model.md
+- product-scope.md
+- functional-requirements.md
+- non-functional-requirements.md
+- business-rules.md
+- user-flows.md
+- ui-mobile-first.md
+
+These files are used as context for development and AI-assisted coding.
+
